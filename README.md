@@ -4,7 +4,7 @@ I'm a Computer Science undergraduate at **Wuhan University**.
 
 I'm still figuring out which parts of computer science I enjoy most. During the semester I mostly follow my courses, fill in the gaps, and learn whatever I happen to need next. During holidays, I usually pick a few things that interest me and try to turn them into small projects.
 
-I learn better when there is something concrete to build, break, debug, or explain.
+I learn better when there is something related to the reality and true question.
 
 <p>
   <img src="https://img.shields.io/badge/CS-Wuhan%20University-555555?style=flat-square" alt="Computer Science at Wuhan University" />

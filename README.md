@@ -1,23 +1,39 @@
-# Ruiqing Yan
+# Hi, I'm Ruiqing 👋
 
-Computer Science undergraduate at **Wuhan University**.
+I'm a Computer Science undergraduate at **Wuhan University**.
 
-Interested in **systems**, **computer architecture**, **developer tools**, and **AI-assisted scientific computing**. I enjoy turning fuzzy problems into inspectable systems with clear interfaces, reproducible experiments, and explicit failure modes.
+I'm still exploring different areas of computer science, so most of my time now is spent learning new subjects, doing coursework, and trying small things that interest me along the way.
 
-## Current focus
+During the holidays, I also like to turn some of those interests into projects and see how far I can actually build them.
 
-- Building and studying systems from the bottom up
-- Exploring computer architecture through hands-on projects
-- Developing reliable tools for long-running, verifiable research workflows
-- Improving software through testing, profiling, debugging, and careful failure analysis
+<p>
+  <img src="https://img.shields.io/badge/CS-Wuhan%20University-555555?style=flat-square" alt="Computer Science at Wuhan University" />
+  <img src="https://img.shields.io/badge/Status-learning%20%26%20exploring-777777?style=flat-square" alt="Learning and exploring" />
+</p>
 
-## Selected work
+## 🌱 What I'm learning
 
-- **[Autonomous Math AI](https://github.com/wizardpc-com/autonomous-math-ai)** — an auditable, falsification-first Python harness for long-running mathematical and certified-computational research, with independent verification and reproducible evidence.
+| | |
+|---|---|
+| 💻 **Computer systems** | learning how software meets hardware |
+| 🧠 **Algorithms & theory** | filling in the foundations one course at a time |
+| 🤖 **AI** | exploring what it can and cannot do well |
+| 🛠️ **Programming** | trying to write better code by building real things |
 
-## How I like to build
+## 🧩 Things I've been trying
 
-- Prefer reproducible evidence over confident claims.
-- Make assumptions and failure modes explicit.
-- Keep systems inspectable, testable, and recoverable.
-- Treat automation as a tool, not a substitute for verification.
+Most of these started simply because I was curious about them.
+
+- **[Autonomous Math AI](https://github.com/wizardpc-com/autonomous-math-ai)**  
+  A holiday experiment around using AI for longer research workflows, with verification and reproducibility in mind.
+
+- 🎮 **A small computer-architecture game** *(work in progress)*  
+  An attempt to turn ideas about memory, data movement, and the von Neumann bottleneck into something interactive.
+
+## 📊 A little GitHub activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardpc-com&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+<sub>Still learning, still trying things, and keeping the useful ones here.</sub>

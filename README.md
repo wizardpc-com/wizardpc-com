@@ -31,10 +31,6 @@ Most of these started simply because I was curious about them.
 
 I'm experimenting with a game about memory, data movement, and the von Neumann bottleneck. The idea is to make some computer-architecture concepts something you can actually play with instead of only reading about them.
 
-### 🔬 [Autonomous Math AI](https://github.com/wizardpc-com/autonomous-math-ai)
-
-A holiday experiment around using AI for longer research workflows. A lot of the work ended up being less about "asking AI to solve things" and more about keeping intermediate results, checking claims, recovering from failures, and making the process reproducible.
-
 ### 🛠️ Smaller experiments
 
 I also keep assorted course work, scripts, little utilities, and unfinished ideas around. Most of them are private or not polished enough to deserve their own spot here yet.
